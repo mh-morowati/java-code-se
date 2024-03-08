@@ -1,0 +1,223 @@
+#background {
+    background-color: black;
+}
+
+#my-div {
+    width: 800px;
+    height: 600px;
+    background-color: rgb(48,49,52);
+    position: relative;
+    display: inline-block;
+    left: 320px;
+    bottom: 7px;
+}
+
+#my-div-b {
+    width: 800px;
+    height: 400px;
+    background-color: rgb(48,49,52);
+    position: relative;
+    display: inline-block;
+    left: 320px;
+}
+
+#my-side {
+    width: 300px;
+    height: 1050px;
+    background-color: rgb(48,49,52);
+    position: relative;
+    display: inline-block;
+    bottom: 1015px;
+}
+#gi-div{
+    width: 1170px;
+    height: 1150px;
+    background-color: rgb(31, 31, 33);
+    margin: 0px;
+    padding: 0px;
+}
+#dad-div {
+    margin: 0px 0px 0px 20px;
+    position: relative;
+    top: 30px;
+}
+
+#name {
+    position: relative;
+    bottom: 59px;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(245, 160, 63);
+    background-color: rgba(54, 48, 48, 0.671);
+    ;
+    text-transform: capitalize;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.my-parag {
+    position: relative;
+    bottom: 70px;
+    margin: 16px 16px 16px 16px;
+    font-size:medium;
+    text-transform: capitalize;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+.color-ic{
+    color: rgb(187,134,252);
+}
+#line{
+    position: relative;
+    width: 280px;
+    bottom: 50px;
+}
+#skill{
+    position: relative;
+    bottom: 50px;
+    font-size:large;
+    text-transform: capitalize;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    margin: 16px 16px 16px 16px;
+}
+#exper{
+    font-size:30px;
+    text-transform: capitalize;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    margin: 16px 16px 16px 16px;
+}
+#android{
+    font-size:20px;
+    text-transform: capitalize;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    margin: 35px 16px 16px 16px;
+}
+.my-pfda{
+    font-size:medium;
+    text-transform: capitalize;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    margin: 16px 16px 16px 16px;
+}
+.my-paragraph{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    margin: 16px 16px 16px 16px;
+}
+#my-line{
+    position: relative;
+    width: 750px;
+    top: 10px;
+}
+#asd{
+    background-color: rgb(187,134,252);
+    color:azure;
+    font-size: small;
+    border-radius: 10%;
+    padding: 2px;
+}
+#educti{
+    position: relative;
+    font-size:30px;
+    text-transform: capitalize;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    margin: 16px 16px 16px 16px;
+}
+#qwe{
+    font-size:20px;
+    text-transform: capitalize;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    margin: 35px 16px 16px 16px;
+}
+.container {
+    width: 300px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 40px;
+  }
+  
+  .progress-bar {
+    height: 20px;
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  #progress {
+    height: 100%;
+    background-color: #007bff;
+    border-radius: 5px;
+    transition: width 0.5s ease-in-out;
+    width: 100%;
+    color: #ddd;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  }
+  #progress-b {
+    height: 100%;
+    background-color: #007bff;
+    border-radius: 5px;
+    transition: width 0.5s ease-in-out;
+    width: 80%;
+    color: #ddd;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  }
+  #progress-c {
+    height: 100%;
+    background-color: #007bff;
+    border-radius: 5px;
+    transition: width 0.5s ease-in-out;
+    width: 70%;
+    color: #ddd;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  }
+  #progress-d {
+    height: 100%;
+    background-color: #007bff;
+    border-radius: 5px;
+    transition: width 0.5s ease-in-out;
+    width: 60%;
+    color: #ddd;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  }
+.text-per{
+    text-align: left;
+    position: relative;
+    font-size:medium;
+    text-transform: capitalize;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    margin: 16px 16px 16px 16px;
+}
+#langu{
+    position: relative;
+    bottom: 20px;
+    font-size:large;
+    text-transform: capitalize;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    margin: 16px 16px 16px 16px;
+}
+#tr-div{
+    width: 1170px;
+    height: 70px;
+    background-color: rgb(187,134,252);
+    position: relative;
+    bottom: 1010px;
+    right: 20px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+#holo{
+    color: aliceblue;
+}
